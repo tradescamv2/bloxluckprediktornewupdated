@@ -1,9 +1,3 @@
-<h1 align="center">
-  <a href="<img width=""
-">
-    <img src="./icon.png" alt="Logo" width="300" height="300" style="background:white; vertical-align: middle;">
-  </a>
-</h1>
 
 
 <div align="center">
